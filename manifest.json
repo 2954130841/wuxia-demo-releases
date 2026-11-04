@@ -1,0 +1,101 @@
+{
+ "version": "0.1.5",
+ "pck_name": "game_0.1.5.pck",
+ "pck_url": "https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.5/game_0.1.5.pck",
+ "sha256": "3cfeee4a5965e848a0e4098a5b5c9b38477a40c2e29920eb4d3894fdeb217b3f",
+ "size": 287661884,
+ "min_launcher_version": 1,
+ "changelog_zh": "v0.1.5 更新内容：\n· 自动更新更稳：多条线路（GitHub / jsDelivr 多节点 / 国内代理）并行检查，分块下载、断点续传、逐块校验；检查超时自动跳过，不再卡在更新界面。（注：从 0.1.4 升级仍走 GitHub，若超时请下载一次完整包）\n· 任务对话：接取、提交任务后对话立即关闭，归还操作；移除重复的「进行中」选项。\n· 修复「探望爷爷」等与 NPC 交谈的任务卡住、点击后只显示“…”并无限循环的问题；卡在此处的旧存档再次与 NPC 交谈即可恢复。\n· 修复任务进行中 NPC 头顶仍显示「!」的问题。\n· 鱼饵系统：垂钓每竿消耗一份鱼饵，可选择使用哪种鱼饵；没有鱼饵时无法垂钓。采药有几率挖到蚯蚓；三条出身线的第一个任务各赠送蚯蚓×3。\n· 药锄：扬州只由药农「城南艾香」发放初级药锄；月明楼花露、郎中的真当归需先完成城南艾香。已有药锄或已接任务的存档不受影响。\n· 修复采集点/钓点（含已采尽的）与 NPC 重叠时按 E 无法与 NPC 交谈的问题；E 键提示与实际目标一致。临安部分采集点挪位。\n· 扬州重新布局：十字运河分四坊，街道过桥直通，桥头净空，集市移到南门大街两侧，摊位不再挡路，NPC 不再站在采集点上。\n· 进门更自然：在门前横向走过不会被吸进屋，需朝门方向走才会进入；城门/出口带方向判断。\n· 临安「老翁」炼药委托：老翁会在约定地点等候；汴京郎中可正常进入炼药。",
+ "engine": "4.7.2",
+ "pck_urls": [
+  "https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.5/game_0.1.5.pck",
+  "https://ghfast.top/https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.5/game_0.1.5.pck",
+  "https://gh-proxy.com/https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.5/game_0.1.5.pck"
+ ],
+ "chunks": {
+  "tag": "cdn-v0.1.5",
+  "parts": [
+   {
+    "name": "game_0.1.5.pck.000",
+    "size": 19922944,
+    "sha256": "55b1d32e1c3960bb19060c1eac5bf20a6be067060b10196e1e0117131fe55817"
+   },
+   {
+    "name": "game_0.1.5.pck.001",
+    "size": 19922944,
+    "sha256": "85a200365301fba32b91c006c6ab564a308654eab6337fd7e693b2851ca92c8f"
+   },
+   {
+    "name": "game_0.1.5.pck.002",
+    "size": 19922944,
+    "sha256": "33a011433087e3e3ba15a30494210bbf353f5ef380536c74eab38776b3696ed5"
+   },
+   {
+    "name": "game_0.1.5.pck.003",
+    "size": 19922944,
+    "sha256": "d502a82dea3aeb4872a53f1188de6721adca4994bae16792432afb2df6ae6e2c"
+   },
+   {
+    "name": "game_0.1.5.pck.004",
+    "size": 19922944,
+    "sha256": "029f1d07040dea320be52301f652bd8601e48134b1da20e7cc103705f9c9288d"
+   },
+   {
+    "name": "game_0.1.5.pck.005",
+    "size": 19922944,
+    "sha256": "31df0e1719d1b6840eecfefe56ba26afeaef4e7a60fb3b99b7f9910f1376ee03"
+   },
+   {
+    "name": "game_0.1.5.pck.006",
+    "size": 19922944,
+    "sha256": "68d0cf33da9e2ff8121c4836c87c776a9524938bcba6305f1a9420604eb5e8bf"
+   },
+   {
+    "name": "game_0.1.5.pck.007",
+    "size": 19922944,
+    "sha256": "49eab139ed69a976b7300d5955d8e083752c1629a6726a959561618ec812e47f"
+   },
+   {
+    "name": "game_0.1.5.pck.008",
+    "size": 19922944,
+    "sha256": "5dc887f491da67a1b20c48049ec270eef05d48a88ac79f6f0dc818c9676d57d0"
+   },
+   {
+    "name": "game_0.1.5.pck.009",
+    "size": 19922944,
+    "sha256": "ab2ffe31bb4559c76d27f4d91f766a002bc5b6e72918c50686b8a736306f3cdf"
+   },
+   {
+    "name": "game_0.1.5.pck.010",
+    "size": 19922944,
+    "sha256": "731ed605aa7f9712e4b44118a1ae44ef252f1ca33156731e006aa59a08031767"
+   },
+   {
+    "name": "game_0.1.5.pck.011",
+    "size": 19922944,
+    "sha256": "3dc2a9e350151244c0691349183365a45cf4dffef2ded2217606bfc24d9d65bd"
+   },
+   {
+    "name": "game_0.1.5.pck.012",
+    "size": 19922944,
+    "sha256": "907e565f4a2c28916ebbf3145a5fc3755e37d820b49cbb98d6996fdd1e94d2e4"
+   },
+   {
+    "name": "game_0.1.5.pck.013",
+    "size": 19922944,
+    "sha256": "7b046ceb30a7c55df46652f71c90e275953e71d4a5c8260865ba6c6d107d8101"
+   },
+   {
+    "name": "game_0.1.5.pck.014",
+    "size": 8740668,
+    "sha256": "5625b49e519c32300863610b64be3069d3238fce390a03465ee4b74232a24f1e"
+   }
+  ],
+  "bases": [
+   "https://cdn.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.5/pck/",
+   "https://fastly.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.5/pck/",
+   "https://gcore.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.5/pck/",
+   "https://raw.githubusercontent.com/2954130841/wuxia-demo-releases/cdn-v0.1.5/pck/"
+  ]
+ }
+}
