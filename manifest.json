@@ -1,116 +1,116 @@
 {
- "version": "0.1.11",
- "pck_name": "game_0.1.11.pck",
- "pck_url": "https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.11/game_0.1.11.pck",
- "sha256": "4d346389ffbb6ce7945d6628763cd8750aab72a264850c5c50395382740872e3",
- "size": 348802108,
+ "version": "0.1.12",
+ "pck_name": "game_0.1.12.pck",
+ "pck_url": "https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.12/game_0.1.12.pck",
+ "sha256": "28f54059df31dcbd777b8f64174f6a3e957e26e2761c24b5d8a09e9ab57b3c4d",
+ "size": 355395492,
  "min_launcher_version": 1,
- "changelog_zh": "七大门派地图：少林/武当/峨眉/华山 + 天魔教/五毒教/血刀门（大殿、掌门弟子商人、阵营商店、采集点、世界地图节点）。全量测试通过。",
+ "changelog_zh": "出身外貌：乞儿/平民/世家世界衣着不同；烟雨古道守寺人真精灵+去石板贴片；全图 placeholder NPC 审计。",
  "engine": "4.7.2",
  "pck_urls": [
-  "https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.11/game_0.1.11.pck",
-  "https://ghfast.top/https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.11/game_0.1.11.pck",
-  "https://gh-proxy.com/https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.11/game_0.1.11.pck"
+  "https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.12/game_0.1.12.pck",
+  "https://ghfast.top/https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.12/game_0.1.12.pck",
+  "https://gh-proxy.com/https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.12/game_0.1.12.pck"
  ],
  "chunks": {
-  "tag": "cdn-v0.1.11",
+  "tag": "cdn-v0.1.12",
   "parts": [
    {
-    "name": "game_0.1.11.pck.000",
+    "name": "game_0.1.12.pck.000",
     "size": 19922944,
-    "sha256": "784d0e2fe5a46e55886f2e58a66259625ec926976ba3159f040ab1c93c4f7a39"
+    "sha256": "b36a0a4d006ee9a8a7e4bfd9cf85930b8fd9538370cc581e521f05130d1015a4"
    },
    {
-    "name": "game_0.1.11.pck.001",
+    "name": "game_0.1.12.pck.001",
     "size": 19922944,
     "sha256": "85a200365301fba32b91c006c6ab564a308654eab6337fd7e693b2851ca92c8f"
    },
    {
-    "name": "game_0.1.11.pck.002",
+    "name": "game_0.1.12.pck.002",
     "size": 19922944,
     "sha256": "a48a24936c453e8e9b9bf7ca6bc42483e60478dc57d4b85696385ef77912b5ef"
    },
    {
-    "name": "game_0.1.11.pck.003",
+    "name": "game_0.1.12.pck.003",
     "size": 19922944,
     "sha256": "b7e13eb61e094d091b0de51478baedcb5165157ff9aa38cc5f82549e84ce0a51"
    },
    {
-    "name": "game_0.1.11.pck.004",
+    "name": "game_0.1.12.pck.004",
     "size": 19922944,
     "sha256": "1310f38d98039231093dda105f106135bd4f4e3a78dd834637f61c0d754fa7d2"
    },
    {
-    "name": "game_0.1.11.pck.005",
+    "name": "game_0.1.12.pck.005",
     "size": 19922944,
     "sha256": "6660f6c744a9dad6944181348a872bfd767fb9b13af6c4563ed59eef8785b4a1"
    },
    {
-    "name": "game_0.1.11.pck.006",
+    "name": "game_0.1.12.pck.006",
     "size": 19922944,
     "sha256": "819e81cd5e8307eec2a85b57bf2873b14f1f058e8622d72eaff6f37c0a2a1549"
    },
    {
-    "name": "game_0.1.11.pck.007",
+    "name": "game_0.1.12.pck.007",
     "size": 19922944,
     "sha256": "65c1194d7c4b5670f21d0f8b26099dc4ced1f0ce2cc9187f5c686460bcdc604c"
    },
    {
-    "name": "game_0.1.11.pck.008",
+    "name": "game_0.1.12.pck.008",
     "size": 19922944,
-    "sha256": "1baf0ebc4d5643588449dd9533e32f9aa60894c54b9e874964500dcd14de6dd0"
+    "sha256": "87698b5e934015059834e57b94bb7e859af0e063537265014636dcffcd050d8c"
    },
    {
-    "name": "game_0.1.11.pck.009",
+    "name": "game_0.1.12.pck.009",
     "size": 19922944,
-    "sha256": "17317e2c76769ff17d69801c502168a81a8dffac5ec7e5f04a68a9b60385d42c"
+    "sha256": "05541b33d4f9df01fb0b21d867e1ade82118c18b961f6d7e42856d1465861804"
    },
    {
-    "name": "game_0.1.11.pck.010",
+    "name": "game_0.1.12.pck.010",
     "size": 19922944,
-    "sha256": "3a389e92b4bf4cde60f611faaf810a0a02f1d8621f4d4fa9b6fb1f42ba610d7f"
+    "sha256": "d835af42fa7837dbddc496d0762db08c6c60c6cbe0bc4917c3be216368ba7896"
    },
    {
-    "name": "game_0.1.11.pck.011",
+    "name": "game_0.1.12.pck.011",
     "size": 19922944,
-    "sha256": "d394321f70d908d44f7192ff487f992c5f90e75c195e78893e7193b96e5be003"
+    "sha256": "c45941d22eccc01f264a2763ef0da9e246ff58b2acdeea77e7ef7f8109d6ddbb"
    },
    {
-    "name": "game_0.1.11.pck.012",
+    "name": "game_0.1.12.pck.012",
     "size": 19922944,
-    "sha256": "d0be921e9896e702de9d2d5e8e74528558b59735cba3f46eb5d386a40f75aedf"
+    "sha256": "5f4463c297a81e7de564519056ec67aa566fb473814396c9ba8452678978c164"
    },
    {
-    "name": "game_0.1.11.pck.013",
+    "name": "game_0.1.12.pck.013",
     "size": 19922944,
-    "sha256": "a8def5e1ff04545a1dc97d686b80724e42db8754292024cd9a25051a388f0c8d"
+    "sha256": "dac7eedaee5584cdef331d0ec03b2fa2fc2f0b12480116180632fbe61a7848dc"
    },
    {
-    "name": "game_0.1.11.pck.014",
+    "name": "game_0.1.12.pck.014",
     "size": 19922944,
-    "sha256": "33e06ba65a419b35afffb7875e0441348ee267fb7701e9d08642bf4476e848ef"
+    "sha256": "20b5aa03e8df89af8b5a8324d55fda6efe9ff07de1b038b8ed4372851219b912"
    },
    {
-    "name": "game_0.1.11.pck.015",
+    "name": "game_0.1.12.pck.015",
     "size": 19922944,
-    "sha256": "c79b0975ad4133ec388e578e29dd81de1654226ae1969edaf5ea66ea85ab16f6"
+    "sha256": "3c27d1b2bf247b05120412c7f90987849e774fe168c135f2dee766131f687044"
    },
    {
-    "name": "game_0.1.11.pck.016",
+    "name": "game_0.1.12.pck.016",
     "size": 19922944,
-    "sha256": "55c41a216e0176b8f26823476f8a3de78d243e1b883791775eb179176d999751"
+    "sha256": "b63d055900c562ea06358412dbfc85260a1dfca83cf4fd7af2d642ec3ae79e06"
    },
    {
-    "name": "game_0.1.11.pck.017",
-    "size": 10112060,
-    "sha256": "acdee36ede031bdf17816ed50684136f5a8850ae5dc373d3d35471ebb1e79851"
+    "name": "game_0.1.12.pck.017",
+    "size": 16705444,
+    "sha256": "140a6c232fa4ea3dde97e5391d99e1bdf012179e769228681e0bdda791d8f30c"
    }
   ],
   "bases": [
-   "https://cdn.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.11/pck/",
-   "https://fastly.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.11/pck/",
-   "https://gcore.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.11/pck/",
-   "https://raw.githubusercontent.com/2954130841/wuxia-demo-releases/cdn-v0.1.11/pck/"
+   "https://cdn.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.12/pck/",
+   "https://fastly.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.12/pck/",
+   "https://gcore.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.12/pck/",
+   "https://raw.githubusercontent.com/2954130841/wuxia-demo-releases/cdn-v0.1.12/pck/"
   ]
  }
 }
