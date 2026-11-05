@@ -1,101 +1,101 @@
 {
- "version": "0.1.6",
- "pck_name": "game_0.1.6.pck",
- "pck_url": "https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.6/game_0.1.6.pck",
- "sha256": "56ad8bbbae4fb24d2f3bfb42aeb396a72549196c82f83a52d62e9849af8ad756",
- "size": 287662140,
+ "version": "0.1.7",
+ "pck_name": "game_0.1.7.pck",
+ "pck_url": "https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.7/game_0.1.7.pck",
+ "sha256": "0036e7001267d2b67e69c95ee9e581ce8f027635b4234dd6dd94681e009ee90a",
+ "size": 287869080,
  "min_launcher_version": 1,
- "changelog_zh": "v0.1.6 更新内容：\n· 修复备用线路（jsDelivr 等）下载更新时可能中途停止、退回主菜单的问题：启动等待上限只计算到开始下载，下载过程中只要仍在接收数据就不会被中断。\n· 下载中断时保留已校验的分块，下次启动继续下载。",
+ "changelog_zh": "v0.1.7 修复：\n- 接任务时狂按空格/E 导致卡住、对话重复弹出的问题已修复\n- 小花的包子在同时接了「一饭之恩」时无法提交的问题已修复，包子按任务分别计数，不够时提示「还缺」几个\n- 接下任务后不再需要再跟小花（同一 NPC）对话一次，接取即完成该步\n- 主线系统底层已就位：侠义/恶名、门派声望、NPC 死亡、结局、队友等（暂无主线剧情内容）",
  "engine": "4.7.2",
  "pck_urls": [
-  "https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.6/game_0.1.6.pck",
-  "https://ghfast.top/https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.6/game_0.1.6.pck",
-  "https://gh-proxy.com/https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.6/game_0.1.6.pck"
+  "https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.7/game_0.1.7.pck",
+  "https://ghfast.top/https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.7/game_0.1.7.pck",
+  "https://gh-proxy.com/https://github.com/2954130841/wuxia-demo-releases/releases/download/v0.1.7/game_0.1.7.pck"
  ],
  "chunks": {
-  "tag": "cdn-v0.1.6",
+  "tag": "cdn-v0.1.7",
   "parts": [
    {
-    "name": "game_0.1.6.pck.000",
+    "name": "game_0.1.7.pck.000",
     "size": 19922944,
-    "sha256": "3f94d0f6e83b9a436a457939dd3862e7391d02e117bae0cd45c86da9b646dcb8"
+    "sha256": "461e81394f820f795c79245f4a8a5eb007186358fcc1cfbfe0777e159eda5000"
    },
    {
-    "name": "game_0.1.6.pck.001",
+    "name": "game_0.1.7.pck.001",
     "size": 19922944,
     "sha256": "85a200365301fba32b91c006c6ab564a308654eab6337fd7e693b2851ca92c8f"
    },
    {
-    "name": "game_0.1.6.pck.002",
+    "name": "game_0.1.7.pck.002",
     "size": 19922944,
     "sha256": "33a011433087e3e3ba15a30494210bbf353f5ef380536c74eab38776b3696ed5"
    },
    {
-    "name": "game_0.1.6.pck.003",
+    "name": "game_0.1.7.pck.003",
     "size": 19922944,
     "sha256": "d502a82dea3aeb4872a53f1188de6721adca4994bae16792432afb2df6ae6e2c"
    },
    {
-    "name": "game_0.1.6.pck.004",
+    "name": "game_0.1.7.pck.004",
     "size": 19922944,
     "sha256": "029f1d07040dea320be52301f652bd8601e48134b1da20e7cc103705f9c9288d"
    },
    {
-    "name": "game_0.1.6.pck.005",
+    "name": "game_0.1.7.pck.005",
     "size": 19922944,
     "sha256": "31df0e1719d1b6840eecfefe56ba26afeaef4e7a60fb3b99b7f9910f1376ee03"
    },
    {
-    "name": "game_0.1.6.pck.006",
+    "name": "game_0.1.7.pck.006",
     "size": 19922944,
     "sha256": "68d0cf33da9e2ff8121c4836c87c776a9524938bcba6305f1a9420604eb5e8bf"
    },
    {
-    "name": "game_0.1.6.pck.007",
+    "name": "game_0.1.7.pck.007",
     "size": 19922944,
     "sha256": "49eab139ed69a976b7300d5955d8e083752c1629a6726a959561618ec812e47f"
    },
    {
-    "name": "game_0.1.6.pck.008",
+    "name": "game_0.1.7.pck.008",
     "size": 19922944,
     "sha256": "5dc887f491da67a1b20c48049ec270eef05d48a88ac79f6f0dc818c9676d57d0"
    },
    {
-    "name": "game_0.1.6.pck.009",
+    "name": "game_0.1.7.pck.009",
     "size": 19922944,
     "sha256": "ab2ffe31bb4559c76d27f4d91f766a002bc5b6e72918c50686b8a736306f3cdf"
    },
    {
-    "name": "game_0.1.6.pck.010",
+    "name": "game_0.1.7.pck.010",
     "size": 19922944,
     "sha256": "731ed605aa7f9712e4b44118a1ae44ef252f1ca33156731e006aa59a08031767"
    },
    {
-    "name": "game_0.1.6.pck.011",
+    "name": "game_0.1.7.pck.011",
     "size": 19922944,
     "sha256": "3dc2a9e350151244c0691349183365a45cf4dffef2ded2217606bfc24d9d65bd"
    },
    {
-    "name": "game_0.1.6.pck.012",
+    "name": "game_0.1.7.pck.012",
     "size": 19922944,
     "sha256": "907e565f4a2c28916ebbf3145a5fc3755e37d820b49cbb98d6996fdd1e94d2e4"
    },
    {
-    "name": "game_0.1.6.pck.013",
+    "name": "game_0.1.7.pck.013",
     "size": 19922944,
     "sha256": "7b046ceb30a7c55df46652f71c90e275953e71d4a5c8260865ba6c6d107d8101"
    },
    {
-    "name": "game_0.1.6.pck.014",
-    "size": 8740924,
-    "sha256": "71fa85b6572332321b0f02f1867746fae784e3fa968c1718baa69f5a5e6f47c9"
+    "name": "game_0.1.7.pck.014",
+    "size": 8947864,
+    "sha256": "dc4ed6fc5cb49c6daa024f6f9d6797ef7d955aad933915bdb4e8ac11fe47777c"
    }
   ],
   "bases": [
-   "https://cdn.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.6/pck/",
-   "https://fastly.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.6/pck/",
-   "https://gcore.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.6/pck/",
-   "https://raw.githubusercontent.com/2954130841/wuxia-demo-releases/cdn-v0.1.6/pck/"
+   "https://cdn.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.7/pck/",
+   "https://fastly.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.7/pck/",
+   "https://gcore.jsdelivr.net/gh/2954130841/wuxia-demo-releases@cdn-v0.1.7/pck/",
+   "https://raw.githubusercontent.com/2954130841/wuxia-demo-releases/cdn-v0.1.7/pck/"
   ]
  }
 }
